@@ -1,0 +1,30 @@
+[
+  {
+    "id": "0",
+    "title": "Accounts & Finance",
+    "job": "300 Jobs Available",
+    "picture": "https://img.freepik.com/free-photo/businesspeople-working-finance-accounting-analyze-financi_74952-1411.jpg?w=1380&t=st=1681147390~exp=1681147990~hmac=78096f141d4bf5e2374808eab567512d46195745f5df58e3f83eb6a54f7ed7c0"
+  },
+  {
+    "id": "1",
+    "title": "Creative Design",
+    "job": "100+ Jobs Available",
+    "picture": "https://img.freepik.com/free-photo/top-view-drawing-pad-with-hands-desk_23-2148397882.jpg?w=1380&t=st=1681147461~exp=1681148061~hmac=24b40642c698ab27e1a2e5f9332ddbdf7b75f393d62d9ea5b65f27699c455c42"
+   
+  },
+  {
+    "id": "2",
+    "title": "Marketing & Sales",
+    "job": "150 Jobs Available",
+    "picture": "https://img.freepik.com/free-photo/megaphone-beam-with-sale-offer_23-2147930857.jpg?w=1380&t=st=1681147555~exp=1681148155~hmac=552a4edd2da48fe8ca81bd6d7ef1d9acf212b654b05c740f652263d9dd52568d"
+   
+  },
+  {
+    "id": "3",
+    "title": "Engineering Job",
+    "job": "224 Jobs Available",
+    "picture": "https://www.venteon.us.com/wp-content/uploads/2022/09/it-server-staff-1024x745.jpg"
+
+   
+  }
+]

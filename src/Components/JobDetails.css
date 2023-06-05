@@ -1,0 +1,14 @@
+.main-container {
+  display: grid;
+  grid-template-columns: 3fr 2fr;
+}
+
+@media screen and (max-width: 576px) {
+    .main-container {
+      grid-template-columns: repeat(1, 1fr);
+      /* margin: 5px; */
+    }
+  
+  
+  }
+  
